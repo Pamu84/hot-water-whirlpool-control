@@ -2,6 +2,8 @@
 
 A comprehensive IoT control system for managing a whirlpool/hot tub using ESP32, featuring web-based control, temperature monitoring, energy tracking, and automated control logic.
 
+![Demo](assets/whirlpool.gif)
+
 ## Features
 
 - **Web-based Control Interface**: Real-time control via WebSocket communication
